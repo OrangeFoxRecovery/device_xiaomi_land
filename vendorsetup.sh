@@ -17,6 +17,9 @@
 #
 # 	Please maintain this if you use this script or any part of it
 #
+
+git clone -b fox https://github.com/OrangeFoxRecovery/avatar.git misc
+
 FDEVICE="land"
 #set -o xtrace
 
